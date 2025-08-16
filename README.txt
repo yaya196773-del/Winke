@@ -1,0 +1,1 @@
+Открой index.html двойным кликом в браузере (Chrome/Edge/Firefox).
